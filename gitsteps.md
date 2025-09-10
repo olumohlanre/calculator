@@ -6,4 +6,9 @@ in a repo,
     git add . 
 3. commit your changes
     git commit -m "commit message"
-4. git push
+4. push your changes
+    git push
+
+
+// clone an existing repo from github
+git clone <https-url-copied-from-github>
